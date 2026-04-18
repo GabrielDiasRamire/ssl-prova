@@ -2,6 +2,7 @@ Explicação:
 
 Instalação OpenSSL:
 apt update → Atualiza a lista de pacotes disponíveis no sistema.
+
 apt install openssl -y → Instala o OpenSSL sem pedir confirmação (o -y aceita automaticamente).
 
 Verificação de versão
