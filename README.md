@@ -4,7 +4,7 @@ Aluno:
 Gabriel Dias Ramire
 
 Ambiente Utilizado: 
-Sistema: Debian 13 (VM)
+Debian 13 (VM), Windows
 
 Virtualização: VirtualBox
 
@@ -27,3 +27,7 @@ Dificuldades Encontradas:
 Erro de permissão ao usar SCP (diretório protegido), 
 Falha de autenticação SSH (senha/usuário), 
 Configuração do serviço SSH na VM.
+
+Conclusão
+
+A atividade permitiu compreender o funcionamento de certificados digitais, geração de chaves criptográficas e comunicação segura via HTTPS. Também foi possível aprender a utilizar ferramentas como OpenSSL e SCP para gerenciamento de segurança em sistemas Linux.
