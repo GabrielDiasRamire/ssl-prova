@@ -9,4 +9,3 @@ GabrielDiasRamire@192.168.15.90 → Usuário e IP da máquina de destino.
 C:/Users/gabrieldiasramire/Desktop/ → Caminho no Windows onde o arquivo será salvo.
 
 O print mostra que a transferência foi concluída com sucesso (100%). Isso confirma que o certificado foi copiado da VM Debian para o Desktop do Windows.
-Esse passo é importante porque simula a distribuição de certificados para outros servidores ou clientes.
